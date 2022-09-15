@@ -8,3 +8,8 @@ It is pretty intriguing to learn about Denver's behavioral health center researc
 <br>
 <br>
 Edit by Hassan: I could have never thought that AI and NLP would be useful in the health sector!
+
+<br>
+<br>
+
+Comments by Abdul: The advancement of AI and NLP is moving really fast and having real impact, and I believe most health care providers would eventually have to adopt.
